@@ -1,1 +1,1 @@
-# revisd
+# revisord
